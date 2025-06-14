@@ -1,2 +1,33 @@
-# ecoteiner-frontend
-Aplicação web do Ecoteiner, desenvolvida em ReactJS, com integração ao Firebase. Interface principal para usuários e administradores, incluindo funcionalidades de cadastro, login, dashboard, loja de produtos, mapa de pontos de coleta, extrato de transações e painel administrativo.
+# Ecoteiner - Frontend
+
+Aplicação web do projeto Ecoteiner, desenvolvida em ReactJS e integrada com Firebase.
+
+## Tecnologias
+
+- ReactJS
+- Firebase (Auth, Firestore, Storage)
+- Google Maps API
+
+## Funcionalidades
+
+- Cadastro de usuários
+- Login e autenticação
+- Dashboard com saldo de Fênix Coins
+- Loja de produtos para troca de pontos
+- Mapa de pontos de coleta
+- Extrato de transações
+- Painel administrativo
+
+## Requisitos
+
+- Node.js (v18+ recomendado)
+- Yarn ou NPM
+
+## Instalação
+
+```bash
+git clone https://github.com/DevKelvinbd/ecoteiner-frontend.git
+cd ecoteiner-frontend
+npm install
+# ou
+yarn install
